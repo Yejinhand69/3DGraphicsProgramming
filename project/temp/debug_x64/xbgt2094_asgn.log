@@ -1,0 +1,97 @@
+﻿  camera_base.cpp
+  camera_flying.cpp
+  camera_orbit.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\camera\camera_orbit.cpp(85,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\camera\camera_orbit.cpp(85,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  camera_projection.cpp
+  fbo.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\fbo\fbo.cpp(82,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\fbo\fbo.cpp(136,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\fbo\fbo.cpp(201,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  fbo_utils.cpp
+  scenebase.cpp
+  simpleapp.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(149,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(352,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(355,8): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(355,8): warning C4244:         with
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(355,8): warning C4244:         [
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(355,8): warning C4244:             T=float
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(355,8): warning C4244:         ]
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(434,67): warning C4244: 'argument': conversion from 'const T' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(434,67): warning C4244:         with
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(434,67): warning C4244:         [
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(434,67): warning C4244:             T=int
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simpleapp.cpp(434,67): warning C4244:         ]
+  simplerenderer.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\framework\simplerenderer.cpp(160,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  lights.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+  lights_common.cpp
+  light_debug.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+  light_utils.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+  Generating Code...
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.cpp(41,1): warning C4172: returning address of local variable or temporary
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.cpp(46,1): warning C4172: returning address of local variable or temporary
+  Compiling...
+  light_utils_imgui.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+  main.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\main.cpp(138,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\main.cpp(138,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\main.cpp(151,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\main.cpp(151,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  debugmesh.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(21,35): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(76,29): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(112,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(113,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(114,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\debugmesh.cpp(115,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  mesh.cpp
+  mesh_utils.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(11,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(30,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(31,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,16): warning C4244:         with
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,16): warning C4244:         [
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,16): warning C4244:             T=int
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,16): warning C4244:         ]
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,37): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,37): warning C4244:         with
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,37): warning C4244:         [
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,37): warning C4244:             T=int
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(85,37): warning C4244:         ]
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(92,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(118,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(123,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(128,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(133,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(139,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\mesh\mesh_utils.cpp(145,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  renderable_entity.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+  scene_asgn.cpp
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\lighting\lights.h(94,8): warning C4114: same type qualifier used more than once
+C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\src\scene_asgn.cpp(474,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  shader.cpp
+  shader_utils.cpp
+  cubemap.cpp
+  texture2d.cpp
+  texture_utils.cpp
+  Generating Code...
+  glad.c
+  mikktspace.c
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  xbgt2094_asgn.vcxproj -> C:\Users\user\OneDrive\Documents\3D GP\Assignment\xbgt2094_asgn\project\debug\xbgt2094_asgn.exe
